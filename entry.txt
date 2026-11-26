@@ -1,1 +1,1 @@
-fix: I pushed to main at 3 AM because branch protection was asleep too
+fix: revert 3am 'harmless' migration; restored prod, re-enabled backups, and added a comment telling future me that DROP TABLE users is not a love language
